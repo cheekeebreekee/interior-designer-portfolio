@@ -1,0 +1,19 @@
+{
+  "name": "interior-designer-portfolio",
+  "version": "1.0.0",
+  "description": "interior designer portfolio landing page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheekeebreekee/interior-designer-portfolio.git"
+  },
+  "author": "Yahor Simak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheekeebreekee/interior-designer-portfolio/issues"
+  },
+  "homepage": "https://github.com/cheekeebreekee/interior-designer-portfolio#readme"
+}
